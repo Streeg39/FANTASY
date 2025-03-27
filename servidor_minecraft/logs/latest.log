@@ -6442,3 +6442,94 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [16:55:01] [Server thread/INFO]: MeRebornRekt lost connection: Disconnected
 [16:55:01] [Server thread/INFO]: MeRebornRekt left the game
 [16:56:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2798ms or 55 ticks behind
+[16:58:50] [Server thread/INFO]: [Handshake] Sending channel query
+[16:58:50] [Netty Epoll Server IO #5/INFO]: [Handshake] Receiving client channels
+[16:59:05] [Netty Epoll Server IO #5/INFO]: [Handshake] Handshake completed successfully
+[16:59:05] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 15525ms or 310 ticks behind
+[16:59:07] [Server thread/INFO]: MeRebornRekt[/127.154.11.16:39865] logged in with entity id 2149 at (1327.300000011921, 83.0, -3717.0229540632977)
+[16:59:07] [Server thread/INFO]: Sending server config values to client
+[16:59:07] [Server thread/INFO]: Syncing config to MeRebornRekt (bca94202-89e4-337a-a0ac-6123b2358471)
+[16:59:07] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[16:59:07] [Server thread/INFO]: MeRebornRekt joined the game
+[16:59:07] [Netty Epoll Server IO #5/INFO]: [showmeyourskin] Client of MeRebornRekt accepted server config.
+[16:59:07] [Netty Epoll Server IO #5/INFO]: Receiving client config
+[16:59:08] [Netty Epoll Server IO #5/INFO]: Priority overwritten for player MeRebornRekt. Claiming: GRAVE / Robbing: INVENTORY
+[16:59:08] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[16:59:08] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[16:59:08] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[16:59:08] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[16:59:08] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[16:59:08] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[16:59:08] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[16:59:08] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[16:59:08] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[16:59:08] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[16:59:08] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[16:59:08] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[16:59:08] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[16:59:08] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[16:59:08] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[16:59:08] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[16:59:08] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[16:59:08] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[16:59:08] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/FANTASY/servidor_minecraft/bclib-sync (allowDelete=true)
+[17:00:59] [Worker-Main-4/WARN]: Tried to access a block entity before it was created. class_2338{x=1662, y=-54, z=-3515}
+[17:00:59] [Worker-Main-4/WARN]: Tried to access a block entity before it was created. class_2338{x=1663, y=-54, z=-3516}
+[17:00:59] [Worker-Main-4/WARN]: Tried to access a block entity before it was created. class_2338{x=1662, y=-53, z=-3516}
+[17:00:59] [Worker-Main-4/WARN]: Tried to access a block entity before it was created. class_2338{x=1662, y=-54, z=-3515}
+[17:00:59] [Worker-Main-4/WARN]: Tried to access a block entity before it was created. class_2338{x=1663, y=-54, z=-3516}
+[17:00:59] [Worker-Main-4/WARN]: Tried to access a block entity before it was created. class_2338{x=1662, y=-53, z=-3516}
+[17:01:11] [Server thread/INFO]: Purificador25 lost connection: Disconnected
+[17:01:11] [Server thread/INFO]: Purificador25 left the game
+[17:01:11] [Server thread/WARN]: handleDisconnection() called twice
+[17:01:17] [Server thread/INFO]: [Handshake] Sending channel query
+[17:01:17] [Netty Epoll Server IO #0/INFO]: [Handshake] Receiving client channels
+[17:01:17] [Netty Epoll Server IO #0/INFO]: [Handshake] Handshake completed successfully
+[17:01:18] [Server thread/INFO]: Purificador25[/127.252.100.173:34453] logged in with entity id 2982 at (1486.0785323794125, 65.0, -3721.572659447637)
+[17:01:18] [Server thread/INFO]: Sending server config values to client
+[17:01:18] [Server thread/INFO]: Syncing config to Purificador25 (603693bf-f23a-3539-adc6-228f3471e88d)
+[17:01:18] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[17:01:18] [Server thread/INFO]: Purificador25 joined the game
+[17:01:18] [Netty Epoll Server IO #0/INFO]: [showmeyourskin] Client of Purificador25 accepted server config.
+[17:01:18] [Netty Epoll Server IO #0/INFO]: Receiving client config
+[17:01:19] [Netty Epoll Server IO #0/INFO]: Priority overwritten for player Purificador25. Claiming: GRAVE / Robbing: INVENTORY
+[17:01:19] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[17:01:19] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[17:01:19] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[17:01:19] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[17:01:19] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[17:01:19] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[17:01:19] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[17:01:19] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[17:01:19] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[17:01:19] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[17:01:19] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[17:01:19] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[17:01:19] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[17:01:19] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[17:01:19] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[17:01:19] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[17:01:19] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[17:01:19] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[17:01:19] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/FANTASY/servidor_minecraft/bclib-sync (allowDelete=true)
+[17:01:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
+[17:04:05] [Server thread/INFO]: <Purificador25> MIRA
+[17:04:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[17:05:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[17:05:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2140ms or 42 ticks behind
+[17:05:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2922ms or 58 ticks behind
+[17:06:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[17:06:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[17:06:48] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[17:07:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[17:07:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2016ms or 40 ticks behind
+[17:08:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[17:08:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[17:08:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2408ms or 48 ticks behind
+[17:08:48] [Server thread/INFO]: [STDOUT]: []
+[17:08:55] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2988ms or 59 ticks behind
+[17:09:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[17:09:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
+[17:10:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[17:10:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[17:10:45] [Server thread/INFO]: Named entity GoblinTrader['Henry'/6452, l='ServerLevel[world]', x=-808.40, y=-42.00, z=245.46] died: Henry burned to death
