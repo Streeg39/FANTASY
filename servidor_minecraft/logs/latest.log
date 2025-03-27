@@ -6533,3 +6533,50 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [17:10:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
 [17:10:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
 [17:10:45] [Server thread/INFO]: Named entity GoblinTrader['Henry'/6452, l='ServerLevel[world]', x=-808.40, y=-42.00, z=245.46] died: Henry burned to death
+[17:10:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
+[17:11:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[17:11:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2008ms or 40 ticks behind
+[17:12:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[17:13:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[17:13:06] [Server thread/INFO]: [STDOUT]: []
+[17:16:39] [Server thread/INFO]: <MeRebornRekt> saquese
+[17:16:47] [Server thread/INFO]: <Purificador25> xd
+[17:16:51] [Server thread/INFO]: [MeRebornRekt: Teleported Purificador25 to MeRebornRekt]
+[17:17:15] [Server thread/INFO]: [MeRebornRekt: Teleported Purificador25 to MeRebornRekt]
+[17:17:37] [Server thread/INFO]: Purificador25 lost connection: distraete con otra cosa pendejo
+[17:17:37] [Server thread/INFO]: Purificador25 left the game
+[17:17:37] [Server thread/INFO]: [MeRebornRekt: Kicked Purificador25: distraete con otra cosa pendejo]
+[17:17:37] [Server thread/WARN]: handleDisconnection() called twice
+[17:17:42] [Server thread/INFO]: [Handshake] Sending channel query
+[17:17:42] [Netty Epoll Server IO #5/INFO]: [Handshake] Receiving client channels
+[17:17:42] [Netty Epoll Server IO #5/INFO]: [Handshake] Handshake completed successfully
+[17:17:43] [Server thread/INFO]: Purificador25[/127.252.100.173:49353] logged in with entity id 9056 at (1329.4764731998318, 90.0, -3744.6767023055454)
+[17:17:43] [Server thread/INFO]: Sending server config values to client
+[17:17:43] [Server thread/INFO]: Syncing config to Purificador25 (603693bf-f23a-3539-adc6-228f3471e88d)
+[17:17:43] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[17:17:43] [Server thread/INFO]: Purificador25 joined the game
+[17:17:44] [Netty Epoll Server IO #5/INFO]: [showmeyourskin] Client of Purificador25 accepted server config.
+[17:17:44] [Netty Epoll Server IO #5/INFO]: Receiving client config
+[17:17:45] [Netty Epoll Server IO #5/INFO]: Priority overwritten for player Purificador25. Claiming: GRAVE / Robbing: INVENTORY
+[17:17:45] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[17:17:45] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[17:17:45] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[17:17:45] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[17:17:45] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[17:17:45] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[17:17:45] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[17:17:45] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[17:17:45] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[17:17:45] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[17:17:45] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[17:17:45] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[17:17:45] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[17:17:45] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[17:17:45] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[17:17:45] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[17:17:45] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[17:17:45] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[17:17:45] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/FANTASY/servidor_minecraft/bclib-sync (allowDelete=true)
+[17:19:05] [Server thread/INFO]: <Purificador25> no me deja ver como hacer el nature compas
+[17:19:28] [Server thread/INFO]: <MeRebornRekt> a mi si
+[17:19:53] [Server thread/INFO]: Named entity class_5762['Withering Cloaked Rust Axolotl'/273, l='ServerLevel[world]', x=1356.50, y=-14.00, z=-3647.00] died: Withering Cloaked Rust Axolotl died from dehydration
