@@ -12853,9 +12853,27 @@
     },
     "done": true
   },
+  "soulsweapons:dragon_staff_recipe": {
+    "criteria": {
+      "has_item": "2025-03-27 18:05:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-03-27 18:05:16 +0000"
+    },
+    "done": true
+  },
   "regions_unexplored:recipes/decorations/birch_shrub": {
     "criteria": {
       "has_birch_sapling": "2025-03-27 17:22:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-03-27 18:05:16 +0000"
     },
     "done": true
   },
@@ -12874,6 +12892,24 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2025-03-27 17:24:06 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/brewing/nether_brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-03-27 18:05:16 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/dragon_staff": {
+    "criteria": {
+      "has_item": "2025-03-27 18:05:16 +0000"
+    },
+    "done": true
+  },
+  "archon:learn_spell": {
+    "criteria": {
+      "spell": "2025-03-27 18:12:37 +0000"
     },
     "done": true
   },

@@ -6613,3 +6613,26 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [17:51:39] [Server thread/INFO]: Purificador25 has made the advancement [Glacial Profiling]
 [17:58:12] [Server thread/INFO]: [MeRebornRekt: Set own game mode to Creative Mode]
 [17:58:16] [Server thread/INFO]: [MeRebornRekt: Set own game mode to Survival Mode]
+[18:04:16] [Worker-Main-10/WARN]: Tried to access a block entity before it was created. class_2338{x=173, y=-29, z=-475}
+[18:04:16] [Worker-Main-10/WARN]: Tried to access a block entity before it was created. class_2338{x=173, y=-28, z=-476}
+[18:04:16] [Worker-Main-10/WARN]: Tried to access a block entity before it was created. class_2338{x=173, y=-29, z=-475}
+[18:04:16] [Worker-Main-10/WARN]: Tried to access a block entity before it was created. class_2338{x=173, y=-28, z=-476}
+[18:04:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
+[18:05:16] [Server thread/INFO]: MeRebornRekt has made the advancement [Into Fire]
+[18:05:55] [Server thread/INFO]: [MeRebornRekt: Gave 20 experience levels to MeRebornRekt]
+[18:06:05] [Server thread/INFO]: <Purificador25> mio es mas grande
+[18:07:02] [Server thread/INFO]: [MeRebornRekt: Set own game mode to Creative Mode]
+[18:07:16] [Server thread/INFO]: [MeRebornRekt: Set own game mode to Survival Mode]
+[18:07:34] [Server thread/INFO]: <Purificador25> aldeanos p
+[18:07:56] [Server thread/INFO]: [MeRebornRekt: Gave 20 experience levels to MeRebornRekt]
+[18:10:00] [Server thread/INFO]: [MeRebornRekt: Set own game mode to Creative Mode]
+[18:10:06] [Server thread/INFO]: [MeRebornRekt: Set own game mode to Survival Mode]
+[18:10:19] [Server thread/INFO]: <MeRebornRekt> pasa
+[18:10:20] [Server thread/INFO]: <MeRebornRekt> pantaloens
+[18:10:32] [Server thread/INFO]: <MeRebornRekt> viejo
+[18:10:34] [Server thread/INFO]: <MeRebornRekt> deja ps
+[18:10:35] [Server thread/INFO]: <Purificador25> xd
+[18:12:16] [Server thread/INFO]: <Purificador25> toca cocinar vuelvo
+[18:12:18] [Server thread/INFO]: Purificador25 lost connection: Disconnected
+[18:12:18] [Server thread/INFO]: Purificador25 left the game
+[18:12:37] [Server thread/INFO]: MeRebornRekt has made the advancement [Novice Spellcaster]
