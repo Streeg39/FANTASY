@@ -6580,3 +6580,30 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [17:19:05] [Server thread/INFO]: <Purificador25> no me deja ver como hacer el nature compas
 [17:19:28] [Server thread/INFO]: <MeRebornRekt> a mi si
 [17:19:53] [Server thread/INFO]: Named entity class_5762['Withering Cloaked Rust Axolotl'/273, l='ServerLevel[world]', x=1356.50, y=-14.00, z=-3647.00] died: Withering Cloaked Rust Axolotl died from dehydration
+[17:21:27] [Server thread/INFO]: <Purificador25> zzz
+[17:21:37] [Server thread/INFO]: <Purificador25> como funcjona esto?
+[17:21:49] [Server thread/INFO]: <MeRebornRekt> ni idea
+[17:21:58] [Server thread/INFO]: <MeRebornRekt> pero dice que lo uses en una mesa de
+[17:22:12] [Server thread/INFO]: <MeRebornRekt> cartografia
+[17:22:33] [Server thread/INFO]: [MeRebornRekt: Set own game mode to Creative Mode]
+[17:22:42] [Server thread/INFO]: [MeRebornRekt: Set own game mode to Survival Mode]
+[17:23:06] [Server thread/INFO]: <Purificador25> dice que abajo hay una dungueon
+[17:23:17] [Server thread/INFO]: [STDOUT]: []
+[17:25:47] [Server thread/INFO]: <Purificador25> luego dices que no tenemos restone xd
+[17:25:55] [Server thread/INFO]: <Purificador25> usa palancas xd
+[17:26:03] [Server thread/INFO]: <MeRebornRekt> me sobra el redstone
+[17:26:36] [Server thread/WARN]: Purificador25 moved too quickly! -9.972438647846502,2.4387298037924268,0.014538290163272904
+[17:27:34] [Server thread/INFO]: [MeRebornRekt: Set own game mode to Creative Mode]
+[17:28:48] [Server thread/INFO]: [MeRebornRekt: Set own game mode to Survival Mode]
+[17:29:25] [Worker-Main-21/WARN]: Empty height range: [-33 absolute--50 absolute]
+[17:29:25] [Worker-Main-21/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"west",type:"single",waterlogged:"false"}}
+[17:29:25] [Worker-Main-21/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"south",type:"single",waterlogged:"false"}}
+[17:29:26] [Worker-Main-21/INFO]: [STDOUT]: Distance from spawn is: 986
+[17:29:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3162ms or 63 ticks behind
+[17:33:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3963ms or 79 ticks behind
+[17:34:28] [Server thread/INFO]: <MeRebornRekt> enviare comida a mi hemrna
+[17:34:31] [Server thread/INFO]: <MeRebornRekt> ahi vuelvo
+[17:34:35] [Server thread/INFO]: [MeRebornRekt: Set own game mode to Spectator Mode]
+[17:34:38] [Server thread/INFO]: <MeRebornRekt> afk
+[17:40:10] [Server thread/INFO]: Purificador25 has made the advancement [Dwarven Treasure]
+[17:40:11] [Server thread/INFO]: Named entity class_5762['Burning Ender Axolotl'/14347, l='ServerLevel[world]', x=1356.50, y=-14.00, z=-3647.00] died: Burning Ender Axolotl died from dehydration
