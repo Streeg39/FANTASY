@@ -6636,3 +6636,10 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [18:12:18] [Server thread/INFO]: Purificador25 lost connection: Disconnected
 [18:12:18] [Server thread/INFO]: Purificador25 left the game
 [18:12:37] [Server thread/INFO]: MeRebornRekt has made the advancement [Novice Spellcaster]
+[18:23:43] [Server thread/INFO]: Named entity class_5762['Regenerating Lethargic Axolotl'/24236, l='ServerLevel[world]', x=1356.50, y=-14.00, z=-3647.00] died: Regenerating Lethargic Axolotl died from dehydration
+[18:32:45] [Server thread/INFO]: [STDOUT]: class_1590['Zombified Piglin'/27037, l='ServerLevel[world]', x=181.67, y=68.00, z=-479.67]
+[18:32:55] [Server thread/INFO]: MeRebornRekt has made the advancement [A Terrible Fortress]
+[18:36:02] [Server thread/INFO]: [MeRebornRekt: Applied effect Night Vision to MeRebornRekt]
+[18:44:34] [Server thread/WARN]: Couldn't set damage of loot item 1 golden_horse_armor
+[18:45:27] [Server thread/INFO]: MeRebornRekt has made the advancement [Spooky Scary Skeleton]
+[18:46:38] [Server thread/WARN]: Couldn't set damage of loot item 1 golden_horse_armor
