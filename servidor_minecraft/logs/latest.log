@@ -6719,3 +6719,31 @@ java.util.ConcurrentModificationException: null
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
 	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[19:23:39] [Server thread/WARN]: Boat (vehicle of Purificador25) moved wrongly! 0.7663808781057887
+[19:23:39] [Server thread/WARN]: Boat (vehicle of Purificador25) moved wrongly! 0.7772175673962728
+[19:23:39] [Server thread/WARN]: Boat (vehicle of Purificador25) moved wrongly! 0.9183246940574992
+[19:23:40] [Server thread/WARN]: Boat (vehicle of MeRebornRekt) moved wrongly! 0.8466693405334809
+[19:23:40] [Server thread/WARN]: Boat (vehicle of MeRebornRekt) moved wrongly! 0.47515138044491323
+[19:23:44] [Server thread/WARN]: Boat (vehicle of MeRebornRekt) moved wrongly! 1.3694465486350964
+[19:23:44] [Server thread/WARN]: Boat (vehicle of MeRebornRekt) moved wrongly! 1.0040175445938075
+[19:23:44] [Server thread/WARN]: Boat (vehicle of Purificador25) moved wrongly! 0.5234188376580278
+[19:23:44] [Server thread/WARN]: Boat (vehicle of MeRebornRekt) moved wrongly! 1.3694465486350964
+[19:23:44] [Server thread/WARN]: Boat (vehicle of MeRebornRekt) moved wrongly! 1.0032269577950501
+[19:23:44] [Server thread/WARN]: Boat (vehicle of Purificador25) moved wrongly! 0.8148934756000017
+[19:23:44] [Server thread/WARN]: Boat (vehicle of MeRebornRekt) moved wrongly! 0.636115773223537
+[19:23:44] [Server thread/WARN]: Boat (vehicle of Purificador25) moved wrongly! 1.1202173099500214
+[19:23:44] [Server thread/WARN]: Boat (vehicle of MeRebornRekt) moved wrongly! 0.26804620993789285
+[19:23:44] [Server thread/WARN]: Boat (vehicle of Purificador25) moved wrongly! 0.4233758636537459
+[19:23:44] [Server thread/WARN]: Boat (vehicle of Purificador25) moved wrongly! 0.4064453183918886
+[19:23:44] [Server thread/WARN]: Boat (vehicle of Purificador25) moved wrongly! 0.39323419304400886
+[19:24:17] [Server thread/WARN]: Boat (vehicle of MeRebornRekt) moved wrongly! 0.3881233010060896
+[19:24:40] [Server thread/WARN]: Boat (vehicle of MeRebornRekt) moved wrongly! 0.39487851965441223
+[19:24:40] [Server thread/WARN]: Boat (vehicle of MeRebornRekt) moved wrongly! 0.6187655885273671
+[19:27:08] [Server thread/WARN]: Purificador25 moved wrongly!
+[19:32:41] [Server thread/INFO]: Purificador25 has made the advancement [Hidden in the Depths]
+[19:34:58] [Server thread/INFO]: Purificador25 has made the advancement [Magical Metals]
+[19:37:09] [Server thread/INFO]: Purificador25 has made the advancement [Who is Cutting Onions?]
+[19:38:12] [Server thread/INFO]: Purificador25 has made the advancement [GOLD!!!]
+[19:39:27] [Server thread/INFO]: Purificador25 has reached the goal [Hottest Baked Beans]
+[19:42:25] [Server thread/INFO]: Purificador25 lost connection: Disconnected
+[19:42:25] [Server thread/INFO]: Purificador25 left the game
