@@ -11621,6 +11621,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-03-27 20:36:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/netherite_ingot": {
     "criteria": {
       "has_netherite_scrap": "2025-03-27 20:05:32 +0000"
@@ -11780,6 +11786,12 @@
   "variantshields:recipes/combat/dark_oak_netherite_shield_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-03-27 20:08:20 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/vanilla_piles/poppy": {
+    "criteria": {
+      "has_flower": "2025-03-27 20:36:18 +0000"
     },
     "done": true
   },
