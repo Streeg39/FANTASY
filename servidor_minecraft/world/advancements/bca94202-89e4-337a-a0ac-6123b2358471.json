@@ -1596,6 +1596,7 @@
       "minecraft:vindicator": "2025-03-24 19:39:13 +0000",
       "minecraft:spider": "2025-03-24 21:35:09 +0000",
       "minecraft:creeper": "2025-03-27 18:19:21 +0000",
+      "minecraft:phantom": "2025-03-27 20:24:34 +0000",
       "minecraft:zombified_piglin": "2025-03-26 20:05:46 +0000",
       "minecraft:witch": "2025-03-26 20:55:36 +0000",
       "minecraft:wither_skeleton": "2025-03-27 18:40:52 +0000",
@@ -13276,6 +13277,12 @@
     },
     "done": true
   },
+  "deeperdarker:main/kill_all_sculk_mobs": {
+    "criteria": {
+      "phantom": "2025-03-27 20:24:34 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-03-27 19:21:31 +0000"
@@ -13297,6 +13304,12 @@
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-03-27 18:45:27 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/enchanted_membrane": {
+    "criteria": {
+      "has_item.minecraft.phantom_membrane": "2025-03-27 20:24:35 +0000"
     },
     "done": true
   },
@@ -13369,6 +13382,18 @@
   "handcrafted:recipes/misc/terracotta_cup": {
     "criteria": {
       "has_terracotta_cup": "2025-03-27 19:18:01 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/misc/light_gray_dye_from_tassel": {
+    "criteria": {
+      "has_tassel": "2025-03-27 20:26:25 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/vanilla_piles/oak_leaf": {
+    "criteria": {
+      "has_leaves": "2025-03-27 20:25:58 +0000"
     },
     "done": true
   },
@@ -13513,6 +13538,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "in_better_fortress": "2025-03-27 18:32:55 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/phantom_trophy": {
+    "criteria": {
+      "has_phantom_trophy": "2025-03-27 20:24:35 +0000"
     },
     "done": true
   },

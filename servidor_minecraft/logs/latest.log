@@ -6862,3 +6862,18 @@ java.util.ConcurrentModificationException: null
 [20:23:29] [Worker-Main-125/WARN]: Tried to access a block entity before it was created. class_2338{x=1740, y=7, z=-3318}
 [20:23:29] [Worker-Main-125/WARN]: Tried to access a block entity before it was created. class_2338{x=1740, y=7, z=-3318}
 [20:23:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2351ms or 47 ticks behind
+[20:24:42] [Server thread/INFO]: [STDOUT]: []
+[20:24:58] [Worker-Main-203/WARN]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[20:25:27] [Server thread/WARN]: MeRebornRekt moved too quickly! -10.022223780123568,-0.25086736114158725,1.8237730804339662
+[20:25:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2381ms or 47 ticks behind
+[20:28:14] [Server thread/INFO]: <Purificador25> volviste ya xd?
+[20:28:18] [Server thread/INFO]: <MeRebornRekt> c
+[20:28:30] [Server thread/INFO]: <Purificador25> ya tenemos aldeano bebe
+[20:28:34] [Server thread/INFO]: <MeRebornRekt> oc
+[20:28:36] [Server thread/INFO]: <Purificador25> faltan camas
+[20:28:45] [Server thread/INFO]: <Purificador25> puse mas cultivos pa comerciar pormientras
+[20:28:49] [Server thread/INFO]: Named entity class_5762['Starving Drowning Lethargic Cloaked Axolotl'/60657, l='ServerLevel[world]', x=1356.50, y=-14.00, z=-3647.00] died: Starving Drowning Lethargic Cloaked Axolotl died from dehydration
+[20:29:08] [Server thread/INFO]: [MeRebornRekt: Teleported MeRebornRekt to Purificador25]
+[20:29:08] [Server thread/INFO]: [STDOUT]: []
+[20:29:21] [Server thread/INFO]: <MeRebornRekt> wtf
+[20:30:17] [Server thread/INFO]: MeRebornRekt has made the advancement [Magical Metals]
