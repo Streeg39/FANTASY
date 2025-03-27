@@ -6643,3 +6643,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [18:44:34] [Server thread/WARN]: Couldn't set damage of loot item 1 golden_horse_armor
 [18:45:27] [Server thread/INFO]: MeRebornRekt has made the advancement [Spooky Scary Skeleton]
 [18:46:38] [Server thread/WARN]: Couldn't set damage of loot item 1 golden_horse_armor
+[18:53:17] [Server thread/WARN]: Couldn't set damage of loot item 1 golden_horse_armor
+[18:56:40] [Server thread/INFO]: [MeRebornRekt: Applied effect Night Vision to MeRebornRekt]
+[18:59:44] [Server thread/INFO]: [MeRebornRekt: Set own game mode to Creative Mode]
+[18:59:52] [Server thread/INFO]: MeRebornRekt has made the advancement [Who is Cutting Onions?]
+[19:00:52] [Server thread/INFO]: [MeRebornRekt: Set own game mode to Survival Mode]
