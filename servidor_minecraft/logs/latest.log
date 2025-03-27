@@ -6790,3 +6790,65 @@ java.util.ConcurrentModificationException: null
 [20:01:57] [Server thread/INFO]: <Purificador25> tp
 [20:02:03] [Server thread/INFO]: <Purificador25> yo a ti
 [20:02:06] [Server thread/INFO]: [MeRebornRekt: Teleported Purificador25 to MeRebornRekt]
+[20:04:12] [Worker-Main-108/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"east",type:"single",waterlogged:"false"}}
+[20:04:12] [Worker-Main-108/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:table",Properties:{facing:"east",type:"single",waterlogged:"false"}}
+[20:04:18] [Worker-Main-108/WARN]: Tried to access a block entity before it was created. class_2338{x=1176, y=243, z=-3346}
+[20:04:18] [Worker-Main-108/WARN]: Tried to access a block entity before it was created. class_2338{x=1176, y=243, z=-3346}
+[20:04:38] [Worker-Main-201/WARN]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[20:04:41] [Worker-Main-202/WARN]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[20:05:20] [Server thread/INFO]: Named entity class_1549['Arag the Lurker'/66945, l='ServerLevel[world]', x=1289.19, y=80.29, z=-3477.55] died: Arag the Lurker was slain by MeRebornRekt
+[20:06:10] [Worker-Main-125/WARN]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[20:06:18] [Worker-Main-125/WARN]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[20:06:34] [Server thread/WARN]: MeRebornRekt moved too quickly! 6.984418957251364,0.6754387601295093,7.237565834941506
+[20:06:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2994ms or 59 ticks behind
+[20:06:34] [Worker-Main-203/WARN]: Tried to access a block entity before it was created. class_2338{x=1560, y=-21, z=-3100}
+[20:06:34] [Worker-Main-203/WARN]: Tried to access a block entity before it was created. class_2338{x=1560, y=-21, z=-3100}
+[20:06:38] [Worker-Main-203/WARN]: Tried to access a block entity before it was created. class_2338{x=1572, y=-50, z=-3079}
+[20:06:38] [Worker-Main-203/WARN]: Tried to access a block entity before it was created. class_2338{x=1572, y=-49, z=-3080}
+[20:06:38] [Worker-Main-203/WARN]: Tried to access a block entity before it was created. class_2338{x=1572, y=-50, z=-3079}
+[20:06:38] [Worker-Main-203/WARN]: Tried to access a block entity before it was created. class_2338{x=1572, y=-49, z=-3080}
+[20:06:41] [Worker-Main-124/WARN]: Tried to access a block entity before it was created. class_2338{x=1619, y=-54, z=-3358}
+[20:06:41] [Worker-Main-124/WARN]: Tried to access a block entity before it was created. class_2338{x=1619, y=-54, z=-3358}
+[20:06:47] [Worker-Main-108/WARN]: Tried to access a block entity before it was created. class_2338{x=1614, y=-17, z=-3048}
+[20:06:47] [Worker-Main-108/WARN]: Tried to access a block entity before it was created. class_2338{x=1614, y=-17, z=-3048}
+[20:06:53] [Worker-Main-216/WARN]: Tried to access a block entity before it was created. class_2338{x=1599, y=-57, z=-3018}
+[20:06:53] [Worker-Main-216/WARN]: Tried to access a block entity before it was created. class_2338{x=1599, y=-57, z=-3018}
+[20:06:53] [Worker-Main-108/WARN]: Tried to access a block entity before it was created. class_2338{x=1552, y=-54, z=-3014}
+[20:06:53] [Worker-Main-108/WARN]: Tried to access a block entity before it was created. class_2338{x=1552, y=-54, z=-3014}
+[20:06:53] [Worker-Main-108/WARN]: Tried to access a block entity before it was created. class_2338{x=1551, y=-54, z=-3015}
+[20:06:53] [Worker-Main-108/WARN]: Tried to access a block entity before it was created. class_2338{x=1551, y=-54, z=-3015}
+[20:06:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3366ms or 67 ticks behind
+[20:07:01] [Worker-Main-202/INFO]: [STDOUT]: []
+[20:07:01] [Worker-Main-202/WARN]: Tried to access a block entity before it was created. class_2338{x=1599, y=-53, z=-2996}
+[20:07:01] [Worker-Main-202/WARN]: Tried to access a block entity before it was created. class_2338{x=1599, y=-53, z=-2996}
+[20:07:03] [Worker-Main-201/WARN]: Tried to access a block entity before it was created. class_2338{x=1668, y=-3, z=-3315}
+[20:07:03] [Worker-Main-201/WARN]: Tried to access a block entity before it was created. class_2338{x=1668, y=-3, z=-3315}
+[20:07:10] [Worker-Main-124/WARN]: Tried to access a block entity before it was created. class_2338{x=1560, y=-54, z=-2992}
+[20:07:10] [Worker-Main-124/WARN]: Tried to access a block entity before it was created. class_2338{x=1561, y=-53, z=-2992}
+[20:07:10] [Worker-Main-124/WARN]: Tried to access a block entity before it was created. class_2338{x=1560, y=-54, z=-2992}
+[20:07:10] [Worker-Main-124/WARN]: Tried to access a block entity before it was created. class_2338{x=1561, y=-53, z=-2992}
+[20:07:11] [Worker-Main-108/WARN]: Tried to access a block entity before it was created. class_2338{x=1578, y=-28, z=-2987}
+[20:07:11] [Worker-Main-108/WARN]: Tried to access a block entity before it was created. class_2338{x=1578, y=-28, z=-2987}
+[20:07:11] [Worker-Main-108/WARN]: Tried to access a block entity before it was created. class_2338{x=1632, y=-4, z=-2984}
+[20:07:11] [Worker-Main-108/WARN]: Tried to access a block entity before it was created. class_2338{x=1632, y=-4, z=-2984}
+[20:07:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4475ms or 89 ticks behind
+[20:07:17] [Worker-Main-202/WARN]: Tried to access a block entity before it was created. class_2338{x=1486, y=9, z=-2973}
+[20:07:17] [Worker-Main-202/WARN]: Tried to access a block entity before it was created. class_2338{x=1486, y=9, z=-2973}
+[20:07:17] [Worker-Main-202/WARN]: Tried to access a block entity before it was created. class_2338{x=1483, y=0, z=-2970}
+[20:07:17] [Worker-Main-202/WARN]: Tried to access a block entity before it was created. class_2338{x=1483, y=0, z=-2969}
+[20:07:17] [Worker-Main-202/WARN]: Tried to access a block entity before it was created. class_2338{x=1482, y=1, z=-2970}
+[20:07:17] [Worker-Main-202/WARN]: Tried to access a block entity before it was created. class_2338{x=1483, y=0, z=-2970}
+[20:07:17] [Worker-Main-202/WARN]: Tried to access a block entity before it was created. class_2338{x=1483, y=0, z=-2969}
+[20:07:17] [Worker-Main-202/WARN]: Tried to access a block entity before it was created. class_2338{x=1482, y=1, z=-2970}
+[20:07:17] [Worker-Main-202/WARN]: Tried to access a block entity before it was created. class_2338{x=1546, y=-30, z=-2962}
+[20:07:17] [Worker-Main-202/WARN]: Tried to access a block entity before it was created. class_2338{x=1547, y=-30, z=-2961}
+[20:07:17] [Worker-Main-202/WARN]: Tried to access a block entity before it was created. class_2338{x=1546, y=-30, z=-2962}
+[20:07:17] [Worker-Main-202/WARN]: Tried to access a block entity before it was created. class_2338{x=1547, y=-30, z=-2961}
+[20:07:17] [Worker-Main-202/WARN]: Tried to access a block entity before it was created. class_2338{x=1521, y=-5, z=-2962}
+[20:07:17] [Worker-Main-202/WARN]: Tried to access a block entity before it was created. class_2338{x=1522, y=-4, z=-2962}
+[20:07:17] [Worker-Main-202/WARN]: Tried to access a block entity before it was created. class_2338{x=1521, y=-5, z=-2962}
+[20:07:17] [Worker-Main-202/WARN]: Tried to access a block entity before it was created. class_2338{x=1522, y=-4, z=-2962}
+[20:07:17] [Worker-Main-201/WARN]: Tried to access a block entity before it was created. class_2338{x=1506, y=-25, z=-2968}
+[20:07:17] [Worker-Main-201/WARN]: Tried to access a block entity before it was created. class_2338{x=1506, y=-25, z=-2968}
+[20:07:31] [Server thread/INFO]: [MeRebornRekt: Set own game mode to Spectator Mode]
+[20:09:38] [Server thread/INFO]: [STDOUT]: []

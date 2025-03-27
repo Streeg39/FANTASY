@@ -11595,5 +11595,245 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-27 20:08:20 +0000"
+    },
+    "done": true
+  },
+  "variantshields:recipes/combat/acacia_netherite_shield_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-27 20:08:20 +0000"
+    },
+    "done": true
+  },
+  "variantshields:recipes/combat/oak_netherite_shield_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-27 20:08:20 +0000"
+    },
+    "done": true
+  },
+  "variantshields:recipes/combat/birch_netherite_shield_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-27 20:08:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-03-27 20:05:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-27 20:08:20 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/netherite_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-27 20:08:20 +0000"
+    },
+    "done": true
+  },
+  "variantshields:recipes/combat/cherry_netherite_shield_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-27 20:08:20 +0000"
+    },
+    "done": true
+  },
+  "variantshields:recipes/combat/crimson_netherite_shield_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-27 20:08:20 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/cincinnasite_brick_plate": {
+    "criteria": {
+      "has_nether_brick": "2025-03-27 20:06:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-27 20:08:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-27 20:08:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-27 20:08:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-27 20:08:20 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wither": {
+    "criteria": {
+      "has_item": "2025-03-27 20:06:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-03-27 20:06:04 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/hammers/hammer_bone_cudgel": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-27 20:08:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_gauntlet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-27 20:08:20 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/swords/sword_dark_katana": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-27 20:08:20 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/combat/sterling_chestplate_smithing": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-27 20:08:20 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/netherite_candelabra": {
+    "criteria": {
+      "has_item": "2025-03-27 20:05:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-27 20:08:20 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/combat/sterling_leggings_smithing": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-27 20:08:20 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/cincinnasite_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-03-27 20:06:04 +0000"
+    },
+    "done": true
+  },
+  "variantshields:recipes/combat/bamboo_netherite_shield_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-27 20:08:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-27 20:08:20 +0000"
+    },
+    "done": true
+  },
+  "variantshields:recipes/combat/mangrove_netherite_shield_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-27 20:08:20 +0000"
+    },
+    "done": true
+  },
+  "variantshields:recipes/combat/dark_oak_netherite_shield_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-27 20:08:20 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_netherite_scrap": "2025-03-27 20:05:32 +0000"
+    },
+    "done": true
+  },
+  "variantshields:recipes/combat/spruce_netherite_shield_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-27 20:08:20 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/combat/sterling_boots_smithing": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-27 20:08:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-27 20:08:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-27 20:08:20 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-27 20:08:20 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/combat/sterling_helmet_smithing": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-27 20:08:20 +0000"
+    },
+    "done": true
+  },
+  "galosphere:recipes/combat/sterling_horse_armor_smithing": {
+    "criteria": {
+      "has_silver_ingot": "2025-03-27 20:08:20 +0000"
+    },
+    "done": true
+  },
+  "mythicmetals:recipes/midas_folding_template": {
+    "criteria": {
+      "has_midas_gold_ingot": "2025-03-27 20:05:33 +0000"
+    },
+    "done": true
+  },
+  "variantshields:recipes/combat/warped_netherite_shield_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-27 20:08:20 +0000"
+    },
+    "done": true
+  },
+  "variantshields:recipes/combat/jungle_netherite_shield_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-27 20:08:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-03-27 20:08:20 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
