@@ -6852,3 +6852,13 @@ java.util.ConcurrentModificationException: null
 [20:07:17] [Worker-Main-201/WARN]: Tried to access a block entity before it was created. class_2338{x=1506, y=-25, z=-2968}
 [20:07:31] [Server thread/INFO]: [MeRebornRekt: Set own game mode to Spectator Mode]
 [20:09:38] [Server thread/INFO]: [STDOUT]: []
+[20:14:38] [Server thread/INFO]: [STDOUT]: []
+[20:19:38] [Server thread/INFO]: [STDOUT]: []
+[20:20:07] [Server thread/INFO]: Purificador25 has made the advancement [What a Deal!]
+[20:23:15] [Server thread/INFO]: [MeRebornRekt: Set own game mode to Survival Mode]
+[20:23:18] [Worker-Main-202/WARN]: Tried to access a block entity before it was created. class_2338{x=1689, y=-53, z=-3360}
+[20:23:18] [Worker-Main-202/WARN]: Tried to access a block entity before it was created. class_2338{x=1689, y=-53, z=-3360}
+[20:23:28] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2225ms or 44 ticks behind
+[20:23:29] [Worker-Main-125/WARN]: Tried to access a block entity before it was created. class_2338{x=1740, y=7, z=-3318}
+[20:23:29] [Worker-Main-125/WARN]: Tried to access a block entity before it was created. class_2338{x=1740, y=7, z=-3318}
+[20:23:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2351ms or 47 ticks behind

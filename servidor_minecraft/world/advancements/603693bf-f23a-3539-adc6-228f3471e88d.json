@@ -1509,7 +1509,8 @@
       "bread": "2025-03-24 04:07:01 +0000",
       "golden_apple": "2025-03-24 20:13:23 +0000",
       "melon_slice": "2025-03-24 04:19:56 +0000",
-      "enchanted_golden_apple": "2025-03-24 21:04:02 +0000"
+      "enchanted_golden_apple": "2025-03-24 21:04:02 +0000",
+      "carrot": "2025-03-27 20:17:39 +0000"
     },
     "done": false
   },
@@ -6937,7 +6938,8 @@
     "criteria": {
       "potato": "2025-03-24 19:06:43 +0000",
       "nether_wart": "2025-03-25 15:29:09 +0000",
-      "wheat": "2025-03-24 19:02:32 +0000"
+      "wheat": "2025-03-24 19:02:32 +0000",
+      "carrot": "2025-03-27 20:16:38 +0000"
     },
     "done": false
   },
@@ -11709,6 +11711,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/farmersdelight/dark_oak_cabinet": {
+    "criteria": {
+      "has_dark_oak_trapdoor": "2025-03-27 20:15:05 +0000"
+    },
+    "done": true
+  },
   "galosphere:recipes/combat/sterling_chestplate_smithing": {
     "criteria": {
       "has_silver_ingot": "2025-03-27 20:08:20 +0000"
@@ -11814,6 +11822,12 @@
   "mythicmetals:recipes/midas_folding_template": {
     "criteria": {
       "has_midas_gold_ingot": "2025-03-27 20:05:33 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/tables/birch_table_slab": {
+    "criteria": {
+      "has_bamboo": "2025-03-27 20:14:32 +0000"
     },
     "done": true
   },
