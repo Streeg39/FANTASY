@@ -6747,3 +6747,46 @@ java.util.ConcurrentModificationException: null
 [19:39:27] [Server thread/INFO]: Purificador25 has reached the goal [Hottest Baked Beans]
 [19:42:25] [Server thread/INFO]: Purificador25 lost connection: Disconnected
 [19:42:25] [Server thread/INFO]: Purificador25 left the game
+[19:48:18] [Server thread/INFO]: [Handshake] Sending channel query
+[19:48:18] [Netty Epoll Server IO #6/INFO]: [Handshake] Receiving client channels
+[19:48:18] [Netty Epoll Server IO #6/INFO]: [Handshake] Handshake completed successfully
+[19:48:19] [Server thread/INFO]: Purificador25[/127.252.100.173:56405] logged in with entity id 56952 at (119.40500059601955, 12.0, -253.30000001192093)
+[19:48:19] [Server thread/INFO]: Sending server config values to client
+[19:48:19] [Server thread/INFO]: Syncing config to Purificador25 (603693bf-f23a-3539-adc6-228f3471e88d)
+[19:48:19] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[19:48:19] [Server thread/INFO]: Purificador25 joined the game
+[19:48:20] [Netty Epoll Server IO #6/INFO]: [showmeyourskin] Client of Purificador25 accepted server config.
+[19:48:20] [Netty Epoll Server IO #6/INFO]: Receiving client config
+[19:48:22] [Netty Epoll Server IO #6/INFO]: Priority overwritten for player Purificador25. Claiming: GRAVE / Robbing: INVENTORY
+[19:48:22] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[19:48:22] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[19:48:22] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[19:48:23] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[19:48:23] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[19:48:23] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[19:48:23] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[19:48:23] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[19:48:23] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[19:48:23] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[19:48:23] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[19:48:23] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[19:48:23] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[19:48:23] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[19:48:23] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[19:48:23] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[19:48:23] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[19:48:23] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[19:48:23] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/FANTASY/servidor_minecraft/bclib-sync (allowDelete=true)
+[19:50:37] [Worker-Main-125/WARN]: Skipping Entity with id create:super_glue
+[19:50:37] [Worker-Main-125/WARN]: Skipping Entity with id create:super_glue
+[19:51:03] [Worker-Main-124/WARN]: Skipping Entity with id create:super_glue
+[19:51:03] [Worker-Main-124/WARN]: Skipping Entity with id create:super_glue
+[19:51:03] [Worker-Main-124/WARN]: Skipping Entity with id create:super_glue
+[19:51:03] [Worker-Main-124/WARN]: Skipping Entity with id create:super_glue
+[19:51:03] [Worker-Main-124/WARN]: Skipping Entity with id create:super_glue
+[19:51:03] [Worker-Main-124/WARN]: Skipping Entity with id create:super_glue
+[19:58:30] [Server thread/INFO]: <Purificador25> tp xd
+[20:01:55] [Server thread/INFO]: <MeRebornRekt> volvi
+[20:01:57] [Server thread/INFO]: <Purificador25> tp
+[20:02:03] [Server thread/INFO]: <Purificador25> yo a ti
+[20:02:06] [Server thread/INFO]: [MeRebornRekt: Teleported Purificador25 to MeRebornRekt]
