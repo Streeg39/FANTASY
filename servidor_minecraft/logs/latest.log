@@ -6648,3 +6648,74 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [18:59:44] [Server thread/INFO]: [MeRebornRekt: Set own game mode to Creative Mode]
 [18:59:52] [Server thread/INFO]: MeRebornRekt has made the advancement [Who is Cutting Onions?]
 [19:00:52] [Server thread/INFO]: [MeRebornRekt: Set own game mode to Survival Mode]
+[19:11:34] [Worker-Main-21/WARN]: Tried to access a block entity before it was created. class_2338{x=1152, y=237, z=-4439}
+[19:11:34] [Worker-Main-21/WARN]: Tried to access a block entity before it was created. class_2338{x=1152, y=237, z=-4439}
+[19:12:19] [Worker-Main-124/WARN]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[19:12:36] [Worker-Main-125/WARN]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[19:12:37] [Worker-Main-125/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[19:12:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8324ms or 166 ticks behind
+[19:12:53] [Server thread/INFO]: [MeRebornRekt: Set the weather to clear]
+[19:15:22] [Server thread/INFO]: [MeRebornRekt: Set own game mode to Creative Mode]
+[19:16:30] [Worker-Main-108/WARN]: Empty height range: biased[-10 absolute--15 absolute inner: 1]
+[19:16:50] [Server thread/INFO]: [MeRebornRekt: Set own game mode to Survival Mode]
+[19:17:00] [Server thread/INFO]: [MeRebornRekt: Set own game mode to Creative Mode]
+[19:17:12] [Server thread/WARN]: MeRebornRekt moved too quickly! -8.017999522692435,6.37500025331974,-0.4033373162001226
+[19:17:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2836ms or 56 ticks behind
+[19:17:31] [Server thread/INFO]: [MeRebornRekt: Set own game mode to Survival Mode]
+[19:17:53] [Server thread/INFO]: [MeRebornRekt: Set the time to 1000]
+[19:18:31] [Server thread/INFO]: [Handshake] Sending channel query
+[19:18:32] [Netty Epoll Server IO #5/INFO]: [Handshake] Receiving client channels
+[19:18:32] [Netty Epoll Server IO #5/INFO]: [Handshake] Handshake completed successfully
+[19:18:33] [Server thread/INFO]: Purificador25[/127.252.100.173:33539] logged in with entity id 42021 at (1326.7441419313493, 84.0, -3722.5334918945637)
+[19:18:33] [Server thread/INFO]: Sending server config values to client
+[19:18:33] [Server thread/INFO]: Syncing config to Purificador25 (603693bf-f23a-3539-adc6-228f3471e88d)
+[19:18:33] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[19:18:33] [Server thread/INFO]: Purificador25 joined the game
+[19:18:33] [Netty Epoll Server IO #5/INFO]: [showmeyourskin] Client of Purificador25 accepted server config.
+[19:18:33] [Netty Epoll Server IO #5/INFO]: Receiving client config
+[19:18:35] [Netty Epoll Server IO #5/INFO]: Priority overwritten for player Purificador25. Claiming: GRAVE / Robbing: INVENTORY
+[19:18:35] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[19:18:35] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[19:18:35] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[19:18:35] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[19:18:35] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[19:18:35] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[19:18:35] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[19:18:35] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[19:18:35] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[19:18:35] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[19:18:35] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[19:18:35] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[19:18:35] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[19:18:35] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[19:18:35] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[19:18:35] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[19:18:35] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[19:18:35] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[19:18:35] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/FANTASY/servidor_minecraft/bclib-sync (allowDelete=true)
+[19:18:38] [Server thread/INFO]: <MeRebornRekt> venb tp
+[19:18:48] [Server thread/INFO]: <Purificador25> no tengo xd
+[19:18:53] [Server thread/INFO]: <MeRebornRekt> entra
+[19:18:54] [Server thread/INFO]: <MeRebornRekt> dc
+[19:18:58] [Server thread/INFO]: [MeRebornRekt: Teleported Purificador25 to MeRebornRekt]
+[19:19:01] [Server thread/INFO]: <MeRebornRekt> estoy en chill
+[19:20:20] [Server thread/INFO]: [MeRebornRekt: Teleported Purificador25 to MeRebornRekt]
+[19:20:44] [Server thread/INFO]: [MeRebornRekt: Teleported Purificador25 to MeRebornRekt]
+[19:21:47] [Server thread/INFO]: [MeRebornRekt: Teleported Purificador25 to MeRebornRekt]
+[19:22:00] [IO-Worker-161/ERROR]: Failed to store chunk [73, 2]
+java.util.ConcurrentModificationException: null
+	at java.util.HashMap$HashIterator.nextNode(HashMap.java:1597) ~[?:?]
+	at java.util.HashMap$KeyIterator.next(HashMap.java:1620) ~[?:?]
+	at net.minecraft.class_2487.method_10713(class_2487.java:163) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2507.method_10631(class_2507.java:134) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2507.method_10628(class_2507.java:99) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2867.method_23726(class_2867.java:79) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4698.method_23701(class_4698.java:260) ~[server-intermediary.jar:?]
+	at net.minecraft.class_4698.method_23719(class_4698.java:250) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3847$class_3907.run(class_3847.java:60) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3846.method_16907(class_3846.java:91) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3846.method_16900(class_3846.java:146) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3846.run(class_3846.java:102) ~[server-intermediary.jar:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]

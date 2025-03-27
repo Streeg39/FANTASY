@@ -10760,6 +10760,66 @@
     },
     "done": true
   },
+  "travelerscompass:travelerscompass": {
+    "criteria": {
+      "has_compass": "2025-03-27 17:20:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-03-27 17:20:30 +0000"
+    },
+    "done": true
+  },
+  "travelerscompass:travelerscompass_lodestone": {
+    "criteria": {
+      "has_recipe": "2025-03-27 17:20:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_the_recipe": "2025-03-27 17:22:26 +0000"
+    },
+    "done": true
+  },
+  "inmis:recipes/ender_pouch": {
+    "criteria": {
+      "has_ender_chest": "2025-03-27 17:30:22 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:outposts": {
+    "criteria": {
+      "in_outpost_oak": "2025-03-27 17:31:35 +0000"
+    },
+    "done": false
+  },
+  "mythicmetals:mythril": {
+    "criteria": {
+      "mith": "2025-03-27 17:40:10 +0000"
+    },
+    "done": true
+  },
+  "mythicmetals:adamantite": {
+    "criteria": {
+      "addy": "2025-03-27 17:42:26 +0000"
+    },
+    "done": true
+  },
+  "mythicmetals:orichalcum": {
+    "criteria": {
+      "orich": "2025-03-27 17:46:09 +0000"
+    },
+    "done": true
+  },
+  "spellbladenext:spellblades/gladius": {
+    "criteria": {
+      "arcane": "2025-03-27 17:51:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2025-03-27 18:01:41 +0000"
@@ -10772,51 +10832,9 @@
     },
     "done": true
   },
-  "repurposed_structures:outposts": {
-    "criteria": {
-      "in_outpost_oak": "2025-03-27 17:31:35 +0000"
-    },
-    "done": false
-  },
-  "travelerscompass:travelerscompass": {
-    "criteria": {
-      "has_compass": "2025-03-27 17:20:30 +0000"
-    },
-    "done": true
-  },
-  "inmis:recipes/ender_pouch": {
-    "criteria": {
-      "has_ender_chest": "2025-03-27 17:30:22 +0000"
-    },
-    "done": true
-  },
-  "spellbladenext:spellblades/gladius": {
-    "criteria": {
-      "arcane": "2025-03-27 17:51:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/map": {
-    "criteria": {
-      "has_compass": "2025-03-27 17:20:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2025-03-27 18:01:41 +0000"
-    },
-    "done": true
-  },
-  "mythicmetals:adamantite": {
-    "criteria": {
-      "addy": "2025-03-27 17:42:26 +0000"
-    },
-    "done": true
-  },
-  "travelerscompass:travelerscompass_lodestone": {
-    "criteria": {
-      "has_recipe": "2025-03-27 17:20:30 +0000"
     },
     "done": true
   },
@@ -10826,33 +10844,15 @@
     },
     "done": true
   },
-  "mythicmetals:mythril": {
-    "criteria": {
-      "mith": "2025-03-27 17:40:10 +0000"
-    },
-    "done": true
-  },
-  "mythicmetals:orichalcum": {
-    "criteria": {
-      "orich": "2025-03-27 17:46:09 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/misc/lapis_pile_to_lapis": {
-    "criteria": {
-      "has_lapis_pile": "2025-03-27 18:09:27 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_the_recipe": "2025-03-27 18:01:41 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cartography_table": {
+  "betternether:recipes/misc/lapis_pile_to_lapis": {
     "criteria": {
-      "has_the_recipe": "2025-03-27 17:22:26 +0000"
+      "has_lapis_pile": "2025-03-27 18:09:27 +0000"
     },
     "done": true
   },
