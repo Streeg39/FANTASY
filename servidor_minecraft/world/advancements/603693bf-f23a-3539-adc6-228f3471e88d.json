@@ -409,6 +409,7 @@
       "ancient_delta": "2025-03-27 17:44:33 +0000",
       "redstone_caves": "2025-03-26 21:30:52 +0000",
       "scorching_caves": "2025-03-27 17:41:19 +0000",
+      "grassy_beach": "2025-03-28 19:01:41 +0000",
       "blackwood_taiga": "2025-03-24 04:06:38 +0000",
       "rocky_meadow": "2025-03-25 15:56:42 +0000",
       "ochard": "2025-03-27 17:27:43 +0000",
@@ -433,6 +434,7 @@
       "shrubland": "2025-03-26 19:10:27 +0000",
       "pine_taiga": "2025-03-24 19:17:04 +0000",
       "autumnal_maple_forest": "2025-03-27 17:47:28 +0000",
+      "grassy_beach": "2025-03-28 19:01:41 +0000",
       "blackwood_taiga": "2025-03-24 04:06:38 +0000",
       "rocky_meadow": "2025-03-25 15:56:42 +0000",
       "ochard": "2025-03-27 17:27:43 +0000",
@@ -11879,9 +11881,75 @@
     },
     "done": true
   },
+  "promenade:recipes/crafting/asphalt/stairs": {
+    "criteria": {
+      "has_asphalt": "2025-03-28 18:55:27 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/birch_cabinet": {
     "criteria": {
       "has_birch_trapdoor": "2025-03-28 18:50:14 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/asphalt/slab": {
+    "criteria": {
+      "has_asphalt": "2025-03-28 18:55:27 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/asphalt/polished_block": {
+    "criteria": {
+      "has_asphalt": "2025-03-28 18:55:27 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/asphalt/wall": {
+    "criteria": {
+      "has_asphalt": "2025-03-28 18:55:27 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/asphalt/wall": {
+    "criteria": {
+      "has_asphalt": "2025-03-28 18:55:27 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/asphalt/polished_slab": {
+    "criteria": {
+      "has_asphalt": "2025-03-28 18:55:27 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/asphalt/polished_block": {
+    "criteria": {
+      "has_asphalt": "2025-03-28 18:55:27 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/steampunk": {
+    "criteria": {
+      "has_item": "2025-03-28 18:54:53 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/asphalt/slab": {
+    "criteria": {
+      "has_asphalt": "2025-03-28 18:55:27 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/asphalt/polished_stairs": {
+    "criteria": {
+      "has_asphalt": "2025-03-28 18:55:27 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/asphalt/stairs": {
+    "criteria": {
+      "has_asphalt": "2025-03-28 18:55:27 +0000"
     },
     "done": true
   },
