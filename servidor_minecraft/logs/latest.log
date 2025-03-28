@@ -3872,3 +3872,5 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [18:52:00] [Server thread/INFO]: Named entity class_1642['Rust Cloaked Stormy Zombie'/2324, l='ServerLevel[world]', x=1346.50, y=77.00, z=-3626.18] died: Rust Cloaked Stormy Zombie burned to death
 [19:01:46] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2912ms or 58 ticks behind
 [19:09:14] [Server thread/INFO]: There are 1 of a max of 10 players online: Purificador25
+[19:34:09] [Server thread/INFO]: Purificador25 lost connection: Disconnected
+[19:34:09] [Server thread/INFO]: Purificador25 left the game
