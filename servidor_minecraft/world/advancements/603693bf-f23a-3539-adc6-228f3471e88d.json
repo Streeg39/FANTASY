@@ -11881,15 +11881,21 @@
     },
     "done": true
   },
-  "promenade:recipes/crafting/asphalt/stairs": {
-    "criteria": {
-      "has_asphalt": "2025-03-28 18:55:27 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/farmersdelight/birch_cabinet": {
     "criteria": {
       "has_birch_trapdoor": "2025-03-28 18:50:14 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/steampunk": {
+    "criteria": {
+      "has_item": "2025-03-28 18:54:53 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/asphalt/stairs": {
+    "criteria": {
+      "has_asphalt": "2025-03-28 18:55:27 +0000"
     },
     "done": true
   },
@@ -11926,12 +11932,6 @@
   "promenade:recipes/crafting/asphalt/polished_block": {
     "criteria": {
       "has_asphalt": "2025-03-28 18:55:27 +0000"
-    },
-    "done": true
-  },
-  "immersive_armors:recipes/misc/steampunk": {
-    "criteria": {
-      "has_item": "2025-03-28 18:54:53 +0000"
     },
     "done": true
   },
