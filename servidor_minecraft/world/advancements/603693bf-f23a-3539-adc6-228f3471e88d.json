@@ -7161,6 +7161,7 @@
     "criteria": {
       "lunar_crystal_wand": "2025-03-24 19:12:13 +0000",
       "balloon": "2025-03-24 20:11:05 +0000",
+      "invisibility_cape": "2025-03-29 05:16:00 +0000",
       "hand_fan": "2025-03-26 18:56:54 +0000",
       "floral_staff": "2025-03-24 19:11:47 +0000"
     },
@@ -12137,6 +12138,30 @@
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2025-03-29 04:54:03 +0000"
+    },
+    "done": true
+  },
+  "mythicmetals:runite": {
+    "criteria": {
+      "buying_gf": "2025-03-29 05:24:07 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:igloos": {
+    "criteria": {
+      "in_igloo_grassy": "2025-03-29 05:15:14 +0000"
+    },
+    "done": false
+  },
+  "mythicmetals:osmium": {
+    "criteria": {
+      "gliscos_favorite": "2025-03-29 05:13:50 +0000"
+    },
+    "done": true
+  },
+  "mythicmetals:recipes/osmium_chainmail_smithing_template": {
+    "criteria": {
+      "found_osmium": "2025-03-29 05:13:50 +0000"
     },
     "done": true
   },

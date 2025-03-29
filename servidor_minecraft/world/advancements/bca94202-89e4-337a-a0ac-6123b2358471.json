@@ -13805,15 +13805,207 @@
     },
     "done": true
   },
+  "promenade:recipes/stonecutting/blunite/stairs": {
+    "criteria": {
+      "has_blunite": "2025-03-29 05:47:21 +0000"
+    },
+    "done": true
+  },
+  "inmis:recipes/blazing_backpack": {
+    "criteria": {
+      "has_bejeweled_backpack": "2025-03-29 05:33:34 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/blunite/wall": {
+    "criteria": {
+      "has_blunite": "2025-03-29 05:47:21 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_wall_stonecutting": {
+    "criteria": {
+      "has_item": "2025-03-29 05:29:32 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/altar_block": {
+    "criteria": {
+      "has_item": "2025-03-29 05:22:41 +0000"
+    },
+    "done": true
+  },
+  "inmis:recipes/withered_backpack": {
+    "criteria": {
+      "has_bejeweled_backpack": "2025-03-29 05:33:34 +0000"
+    },
+    "done": true
+  },
+  "mythicmetals:carmot_stone": {
+    "criteria": {
+      "super_bang": "2025-03-29 05:14:11 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/moonstone_hoe": {
+    "criteria": {
+      "has_item": "2025-03-29 05:22:41 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/blunite/polished_slab": {
+    "criteria": {
+      "has_blunite": "2025-03-29 05:47:21 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/building_blocks/raw_silver_block": {
+    "criteria": {
+      "has_item": "2025-03-29 05:24:43 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_stairs_stonecutting": {
+    "criteria": {
+      "has_item": "2025-03-29 05:29:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-03-29 05:45:43 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/blunite/stairs": {
+    "criteria": {
+      "has_blunite": "2025-03-29 05:47:21 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/bluemoon_shortsword": {
+    "criteria": {
+      "has_item": "2025-03-29 05:22:41 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-03-29 05:32:09 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/bluemoon_greatsword": {
+    "criteria": {
+      "has_item": "2025-03-29 05:22:41 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/blunite/slab": {
+    "criteria": {
+      "has_blunite": "2025-03-29 05:47:21 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/blunite/polished_stairs": {
+    "criteria": {
+      "has_blunite": "2025-03-29 05:47:21 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/master_chef": {
     "criteria": {
       "steak_and_potatoes": "2025-03-29 05:06:09 +0000"
     },
     "done": false
   },
+  "twigs:recipes/rhyolite/rhyolite_slab": {
+    "criteria": {
+      "has_item": "2025-03-29 05:29:32 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/polished_rhyolite_bricks_from_rhyolite_stonecutting": {
+    "criteria": {
+      "has_item": "2025-03-29 05:29:32 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/moonstone_pickaxe": {
+    "criteria": {
+      "has_item": "2025-03-29 05:22:41 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_slab_stonecutting": {
+    "criteria": {
+      "has_item": "2025-03-29 05:29:32 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/boss_compass": {
+    "criteria": {
+      "has_item": "2025-03-29 05:22:41 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/misc/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_item": "2025-03-29 05:24:43 +0000"
+    },
+    "done": true
+  },
+  "mythicmetals:palladium": {
+    "criteria": {
+      "feel_the_heat": "2025-03-29 05:14:31 +0000"
+    },
+    "done": true
+  },
   "bewitchment:recipes/food/grotesque_stew": {
     "criteria": {
       "has_item": "2025-03-29 05:06:09 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:mineshafts": {
+    "criteria": {
+      "in_mineshaft_desert": "2025-03-29 05:47:15 +0000"
+    },
+    "done": false
+  },
+  "mythicmetals:prometheum": {
+    "criteria": {
+      "beware_piranha": "2025-03-29 05:27:37 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/misc/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_item": "2025-03-29 05:24:43 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/blunite/polished_block": {
+    "criteria": {
+      "has_blunite": "2025-03-29 05:47:21 +0000"
+    },
+    "done": true
+  },
+  "mythicmetals:adamantite": {
+    "criteria": {
+      "addy": "2025-03-29 05:14:30 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/blunite/polished_block": {
+    "criteria": {
+      "has_blunite": "2025-03-29 05:47:21 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/polished_rhyolite_stonecutting": {
+    "criteria": {
+      "has_item": "2025-03-29 05:29:32 +0000"
     },
     "done": true
   },
@@ -13829,15 +14021,99 @@
     },
     "done": true
   },
+  "mythicmetals:mythril": {
+    "criteria": {
+      "mith": "2025-03-29 05:14:34 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/moonstone_axe": {
+    "criteria": {
+      "has_item": "2025-03-29 05:22:41 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_wall": {
+    "criteria": {
+      "has_item": "2025-03-29 05:29:32 +0000"
+    },
+    "done": true
+  },
+  "inmis:bejeweled_backpack": {
+    "criteria": {
+      "backpack": "2025-03-29 05:33:34 +0000"
+    },
+    "done": true
+  },
+  "mythicmetals:orichalcum": {
+    "criteria": {
+      "orich": "2025-03-29 05:14:34 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/moonstone_shovel": {
+    "criteria": {
+      "has_item": "2025-03-29 05:22:41 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:moonstone": {
+    "criteria": {
+      "item": "2025-03-29 05:22:41 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/stonecutting/blunite/slab": {
+    "criteria": {
+      "has_blunite": "2025-03-29 05:47:21 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/farmersdelight/nether_salad": {
     "criteria": {
       "has_bowl": "2025-03-29 05:06:09 +0000"
     },
     "done": true
   },
+  "soulsweapons:recipes/moonstone_block": {
+    "criteria": {
+      "has_item": "2025-03-29 05:22:41 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/blunite/wall": {
+    "criteria": {
+      "has_blunite": "2025-03-29 05:47:21 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:main/eat_nourishing_food": {
     "criteria": {
       "nourishment": "2025-03-29 05:06:09 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/polished_rhyolite": {
+    "criteria": {
+      "has_item": "2025-03-29 05:29:32 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/rhyolite/rhyolite_stairs": {
+    "criteria": {
+      "has_item": "2025-03-29 05:29:32 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/blackstone_pedestal": {
+    "criteria": {
+      "has_item": "2025-03-29 05:22:41 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:recipes/moonstone": {
+    "criteria": {
+      "has_item": "2025-03-29 05:22:41 +0000"
     },
     "done": true
   },
