@@ -12141,18 +12141,6 @@
     },
     "done": true
   },
-  "mythicmetals:runite": {
-    "criteria": {
-      "buying_gf": "2025-03-29 05:24:07 +0000"
-    },
-    "done": true
-  },
-  "repurposed_structures:igloos": {
-    "criteria": {
-      "in_igloo_grassy": "2025-03-29 05:15:14 +0000"
-    },
-    "done": false
-  },
   "mythicmetals:osmium": {
     "criteria": {
       "gliscos_favorite": "2025-03-29 05:13:50 +0000"
@@ -12162,6 +12150,18 @@
   "mythicmetals:recipes/osmium_chainmail_smithing_template": {
     "criteria": {
       "found_osmium": "2025-03-29 05:13:50 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:igloos": {
+    "criteria": {
+      "in_igloo_grassy": "2025-03-29 05:15:14 +0000"
+    },
+    "done": false
+  },
+  "mythicmetals:runite": {
+    "criteria": {
+      "buying_gf": "2025-03-29 05:24:07 +0000"
     },
     "done": true
   },
