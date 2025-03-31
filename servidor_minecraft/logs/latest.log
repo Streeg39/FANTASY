@@ -3864,3 +3864,4 @@ java.lang.NullPointerException: Cannot invoke "java.awt.image.BufferedImage.getW
 [23:51:14] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
 [23:51:14] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
 [23:51:14] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/FANTASY/servidor_minecraft/bclib-sync (allowDelete=true)
+[23:58:37] [Server thread/INFO]: Named entity class_5762['Weakness Speedster Axolotl'/201, l='ServerLevel[world]', x=1356.50, y=-14.00, z=-3647.00] died: Weakness Speedster Axolotl died from dehydration
