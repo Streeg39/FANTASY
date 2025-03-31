@@ -12165,5 +12165,29 @@
     },
     "done": true
   },
+  "xercapaint:recipes/item_canvas": {
+    "criteria": {
+      "has_item": "2025-03-31 00:42:29 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/paper_lanterns/paper_lantern": {
+    "criteria": {
+      "has_item": "2025-03-31 00:42:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-03-31 00:42:29 +0000"
+    },
+    "done": true
+  },
+  "clutter:recipes/misc/red_present": {
+    "criteria": {
+      "has_paper": "2025-03-31 00:42:29 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
